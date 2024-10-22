@@ -1,5 +1,4 @@
 
-```markdown
 # Data Structures and Algorithms in C
 
 This repository contains implementations of various data structures and algorithms in C, aimed at helping students and enthusiasts learn and practice DSA concepts. Each implementation is designed to be clear, concise, and easy to understand, making it suitable for beginners and intermediate learners.
