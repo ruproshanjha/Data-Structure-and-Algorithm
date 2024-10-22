@@ -78,8 +78,8 @@ To use any of the implementations, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dsa-in-c.git
-   cd dsa-in-c
+   git clone https://github.com/ruproshanjha/Data-Structure-and-Algorithm.git
+   cd Data structure and Algorithms 
    ```
 
 2. **Compile the Desired Program:**
