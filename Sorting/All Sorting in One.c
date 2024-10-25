@@ -52,7 +52,7 @@ int main() {
     
     printf("Enter number of elements: ");
     scanf("%d", &n);
-    printf("Enter elements of the array:\n");
+    printf("Enter elements of the array: ");
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
